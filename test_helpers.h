@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "q_strings.h"
 
 typedef int (*test_fn_t)(void);
 
